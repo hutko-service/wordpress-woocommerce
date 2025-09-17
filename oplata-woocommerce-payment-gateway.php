@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce - hutko payment gateway
- * Plugin URI: https://hutko.org/tools/integrations/woocommerce/
+ * Plugin URL: https://hutko.org/uk/tools/integrations/wordpress/woocommerce/
  * Description: hutko Payment Gateway for WooCommerce.
  * Author: hutko
  * Author URI: https://hutko.org
